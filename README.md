@@ -5,9 +5,9 @@ Hey there! I'm **Poojak Patel**, a junior at the **Illinois Mathematics and Scie
 
 ## 🌱 Projects I've Worked On
 
-- **Face Detection**: Developed a system for detecting faces in images.
+- **Face Detection**: Developed a script for detecting faces in images.
 - **Image Super Resolution**: Created a model to enhance image quality.
-- **Weapon Detection**: Built an application for identifying weapons in real-time.
+- **Weapon Detection**: Built a program for identifying weapons in real-time.
 - **2048 Game**: Designed a Python version of the popular puzzle game.
 - **Calculator**: Implemented a basic calculator in Python.
 - **Data Prediction**: Worked on scripts for data analysis and predictions.
