@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I'm **Poojak Patel**, a junior at the **Illinois Mathematics and Science Academy**. My interest mainly lies in **machine learning** and **autonomous systems**. If you have any questions or ideas for collaboration in these fields, feel free to reach out at **patel.poojak@gmail.com**.
+I'm **Poojak Patel**, a junior at the **Illinois Mathematics and Science Academy**. My interest mainly lies in **machine learning** and **autonomous systems**. Please feel free to reach out at **patel.poojak@gmail.com** if you have any questions or ideas for collaboration!
 
 
 ## 🌱 Projects I've Worked On
