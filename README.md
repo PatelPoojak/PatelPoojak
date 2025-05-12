@@ -8,11 +8,7 @@ I'm **Poojak Patel**, a junior at the **Illinois Mathematics and Science Academy
 - **Face Detection**: Developed a program that identified faces in images
 - **Image Super Resolution**: Created a model that enhanced the quality of images
 - **Weapon Detection**: Build a real-time weapon detection program
-- **2048 Game**: Designed a Python version of the popular puzzle game using Random and Scikit-learn
-- **Calculator**: Implemented a basic calculator in Python
 - **Data Prediction**: Worked on scripts for data analysis and predictions using Pandas, Matplotlib, and Scikit-learn
-- **Dots and Boxes Game**: Recreated a version of Dots and Boxes in python using NumPy and TKinter
-- **Shape Detector**: Created a script using OpenCV that identified various shapes in images 
 - **Live Face Detection**: Used OpenCV to create a real-time face detection program
 
 ## 🌟 Language & Framework Expertise
