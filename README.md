@@ -1,15 +1,15 @@
 # poojak patel
 
-`ai research · full-stack · purdue cs · building things that ship`
+`trustworthy ai research · full-stack · purdue cs · building things that ship`
 
 ---
 
 ### RESEARCH
 
-**quantum machine learning** — google quantum ai
+**quantum machine learning** - google quantum ai
 first-author oral, ACM AIMLSystems 2025. variational quantum algorithms and post-quantum cryptography.
 
-**computational neuroscience & bioinformatics** — northwestern, klein lab
+**computational neuroscience & bioinformatics** - northwestern, klein lab
 AβO-induced neurotoxicity, TDP-43/tau colocalization, MC65 cell model.
 
 **Multimodal Unsupervised Discovery of Structural-Functional Dissociation in Alzheimer's MRI**
@@ -31,18 +31,16 @@ proves evaluation frameworks are bounded by construction: whole classes of failu
 
 ### BUILDING
 
-**evidence infrastructure** — tamper-evident, hash-chained record for every AI decision. ed25519-signed witness, append-only store, offline-verifiable. live on PyPI.
-`python` `fastapi` `sqlite` `ed25519`
+**gaze-tracker** - real-time attention telemetry from face landmarks. vision runs client-side (MediaPipe WASM), no video ever leaves the browser. FastAPI backend ingests 5 Hz telemetry over WebSocket.
+`react` `vite` `mediapipe` `fastapi` `sqlite`
 
-**pathspire** — research-opportunity discovery. 15,000+ users across 20+ countries. built solo, unfunded.
-`react` `supabase` `vite`
+**vaccine-optimizer** - neoantigen immunogenicity benchmark and vaccine sequence optimizer over real expression data.
+`python` `numpy` `scikit-learn`
 
 ---
 
 ### STACK
 
-`python` `typescript` `react` `next.js` `fastapi` `flask` `postgres` `sqlite` `supabase` `pytorch` `docker` `ed25519`
+`python` `typescript` `react` `next.js` `fastapi` `flask` `postgres` `sqlite` `mediapipe` `pytorch` `docker`
 
 ---
-
-`patel.poojak@gmail.com`
