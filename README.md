@@ -34,6 +34,12 @@ proves evaluation frameworks are bounded by construction: whole classes of failu
 **gaze-tracker** - real-time attention telemetry from face landmarks. vision runs client-side (MediaPipe WASM), no video ever leaves the browser. FastAPI backend ingests 5 Hz telemetry over WebSocket.
 `react` `vite` `mediapipe` `fastapi` `sqlite`
 
+**kspace** - structured k-space corruption library for MRI reconstruction. shows that corruption structure, not just severity, decides failure character, and that SSIM catches what aggregate PSNR misses.
+`python` `numpy`
+
+**tracediff** - localizes the first diverging step between two LLM agent trajectories, the root cause an early wrong action explains downstream.
+`typescript`
+
 **vaccine-optimizer** - neoantigen immunogenicity benchmark and vaccine sequence optimizer over real expression data.
 `python` `numpy` `scikit-learn`
 
