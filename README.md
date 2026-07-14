@@ -13,7 +13,7 @@ first-author oral, ACM AIMLSystems 2025. variational quantum algorithms and post
 AβO-induced neurotoxicity, TDP-43/tau colocalization, MC65 cell model.
 
 **Multimodal Unsupervised Discovery of Structural-Functional Dissociation in Alzheimer's MRI**
-CVPR 2026, Subtle Visual Computing Workshop · accepted · presented Denver, June 2026
+SVC @ CVPR 2026 · accepted · presented Denver, June 2026
 
 **Corruption Structure Determines Failure Mode in MRI Reconstruction**
 Stanford PAI 2026 · accepted
@@ -26,6 +26,10 @@ FAGEN @ ICML 2026 · accepted
 **Ontological Closure and Structural Limits on Systemic AI**
 EIML @ ICML 2026 · accepted
 proves evaluation frameworks are bounded by construction: whole classes of failure are invisible by design.
+
+**Access Distortion in Economic World Models**
+WM @ Booth 2026 · accepted
+introduced access distortion, an econometric measure showing equal predictive accuracy can conceal ~2× gaps in realized decision utility.
 
 ---
 
