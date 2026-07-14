@@ -1,16 +1,48 @@
-# Welcome! 👋
+# poojak patel
 
-I'm **Poojak Patel**, a senior at the **Illinois Mathematics and Science Academy**. My interest mainly lies in **machine learning** and **autonomous systems**. Please feel free to reach out at **patel.poojak@gmail.com** if you have any questions or ideas for collaboration!
+`ai research · full-stack · purdue cs · building things that ship`
 
+---
 
-## 🌱 Projects I've Worked On
+### RESEARCH
 
-- **Face Detection**: Developed a program that identified faces in images
-- **Image Super Resolution**: Created a model that enhanced the quality of images
-- **Weapon Detection**: Build a real-time weapon detection program
-- **Data Prediction**: Worked on scripts for data analysis and predictions using Pandas, Matplotlib, and Scikit-learn
-- **Live Face Detection**: Used OpenCV to create a real-time face detection program
+**quantum machine learning** — google quantum ai
+first-author oral, ACM AIMLSystems 2025. variational quantum algorithms and post-quantum cryptography.
 
-## 🌟 Language & Framework Expertise
+**computational neuroscience & bioinformatics** — northwestern, klein lab
+AβO-induced neurotoxicity, TDP-43/tau colocalization, MC65 cell model.
 
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/> </div>
+**Multimodal Unsupervised Discovery of Structural-Functional Dissociation in Alzheimer's MRI**
+CVPR 2026, Subtle Visual Computing Workshop · accepted · presented Denver, June 2026
+
+**Corruption Structure Determines Failure Mode in MRI Reconstruction**
+Stanford PAI 2026 · accepted
+structured line dropout drives catastrophic collapse (SSIM drop 0.877) that aggregate PSNR cannot distinguish.
+
+**Error Trace Regression: Localizing Root Causes in Long-Horizon LLM Agent Trajectories**
+FAGEN @ ICML 2026 · accepted
+0.81 root-cause sensitivity in multi-step agent trajectories vs. 0.23 for final-outcome evaluation.
+
+**Ontological Closure and Structural Limits on Systemic AI**
+EIML @ ICML 2026 · accepted
+proves evaluation frameworks are bounded by construction: whole classes of failure are invisible by design.
+
+---
+
+### BUILDING
+
+**evidence infrastructure** — tamper-evident, hash-chained record for every AI decision. ed25519-signed witness, append-only store, offline-verifiable. live on PyPI.
+`python` `fastapi` `sqlite` `ed25519`
+
+**pathspire** — research-opportunity discovery. 15,000+ users across 20+ countries. built solo, unfunded.
+`react` `supabase` `vite`
+
+---
+
+### STACK
+
+`python` `typescript` `react` `next.js` `fastapi` `flask` `postgres` `sqlite` `supabase` `pytorch` `docker` `ed25519`
+
+---
+
+`patel.poojak@gmail.com`
