@@ -19,10 +19,6 @@ SVC @ CVPR 2026 · accepted · presented Denver, June 2026
 Stanford PAI 2026 · accepted
 structured line dropout drives catastrophic collapse (SSIM drop 0.877) that aggregate PSNR cannot distinguish.
 
-**Error Trace Regression: Localizing Root Causes in Long-Horizon LLM Agent Trajectories**
-FAGEN @ ICML 2026 · accepted
-0.81 root-cause sensitivity in multi-step agent trajectories vs. 0.23 for final-outcome evaluation.
-
 **Ontological Closure and Structural Limits on Systemic AI**
 EIML @ ICML 2026 · accepted
 proves evaluation frameworks are bounded by construction: whole classes of failure are invisible by design.
